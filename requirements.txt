@@ -1,0 +1,7 @@
+# This tool relies solely on standard Python libraries:
+# - tkinter (for GUI)
+# - os, binascii, struct (for file handling and hex)
+# - msilib (optional, for MSI on Windows; part of standard library)
+
+# No external pip-installable dependencies are required.
+# If you encounter issues with tkinter, ensure your Python installation includes it (common on most distributions).
